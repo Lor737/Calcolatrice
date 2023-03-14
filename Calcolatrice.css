@@ -1,0 +1,163 @@
+body
+{
+  background-color: #EBF6F9;
+}
+.icona
+{
+  position: absolute;
+  top:10px;
+  left:490px;
+  height:3%;
+  width: 1%;
+}
+h1
+{
+    position: absolute;
+    font-size: 15px;
+    top:0px;
+    left:520px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.riduci
+{
+    position: absolute;
+    left:660px;
+}
+.allarga
+{
+    position: absolute;
+    left:710px;
+}
+.chiudi
+{
+    position: absolute;
+    left:760px;
+}
+#output
+{
+  position: absolute;
+  top:120px;
+  left: 490px;
+  /*background-color: grey;*/
+  height:100px;
+  width: 350px;
+  text-align: right;
+  font-size: 65px;
+}
+.pulsante
+{
+    position: absolute;
+    height:50px;
+    width: 80px;
+    font-size: 24px;
+    background-color: #F5FAFB;
+    border-radius: 5px;
+    border: solid #DDE8E9 2px;
+}
+.pulsante:hover
+{
+  background-color: #EBF6F9;
+}
+.t7
+{
+  top:320px;
+  left:490px;
+}
+.t8
+{
+  top:320px;
+  left:580px;
+}
+.t9
+{
+  top:320px;
+  left:670px;
+}
+.t4
+{
+  top:380px;
+  left:490px;
+}
+.t5
+{
+  top:380px;
+  left:580px;
+}
+.t6
+{
+  top:380px;
+  left:670px;
+}
+.t1
+{
+  top:440px;
+  left:490px;
+}
+.t2
+{
+  top:440px;
+  left:580px;
+}
+.t3
+{
+  top:440px;
+  left:670px;
+}
+.t0
+{
+  top:500px;
+  left:580px;
+}
+.td
+{
+  top:260px;
+  left:760px;
+  font-size: 34px;
+}
+.tm
+{
+  top:320px;
+  left:760px;
+}
+.ts
+{
+  top:380px;
+  left:760px;
+}
+.ta
+{
+  top:440px;
+  left:760px;
+}
+.tu
+{
+  top:500px;
+  left:760px;
+  background-color: #0067C0;
+  color: #F5FAFB;
+}
+.tu:hover
+{
+  background-color: #0081f3;
+}
+.tv
+{
+  top:500px;
+  left:670px;
+}
+.tats
+{
+  top:500px;
+  left:490px;
+}
+.c
+{
+  top:500px;
+  left:490px;
+}
+.de
+{
+  top:260px;
+  left:490px;
+}
